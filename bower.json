@@ -1,0 +1,22 @@
+{
+  "name": "html5skp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/daclouds/skp",
+  "authors": [
+    "daclouds <daclouds@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "~3.2.5",
+    "bootstrap": "~3.3.4",
+    "normalize": "~1.0.4"
+  }
+}
